@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795105668173",
+    "firebase_url": "https://mvvmregistration-default-rtdb.firebaseio.com",
+    "project_id": "mvvmregistration",
+    "storage_bucket": "mvvmregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795105668173:android:6416ff9a327dfb5ff6c004",
+        "android_client_info": {
+          "package_name": "com.sancho.mvvmregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795105668173-ph19dp5taohcc5ae1l3ui98q0u0o2ulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujF8Ehz_wJ0a0rF-kbggZWFKdsSQr6Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795105668173-ph19dp5taohcc5ae1l3ui98q0u0o2ulb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
